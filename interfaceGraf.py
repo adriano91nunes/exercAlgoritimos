@@ -1,5 +1,5 @@
-#não soube fazer, pedi ao chatgpt fazer com tkinter pq era o que o professor Fábio ou Ivo usava
-m
+#não soube fazer, pedi ao chatgpt fazer com tkinter pq era o que o professor Fábio ou Ivo usavam
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 
